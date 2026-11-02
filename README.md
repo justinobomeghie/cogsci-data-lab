@@ -1,0 +1,55 @@
+# 🔬 The Curiosity Lab
+
+### Minds. Data. Algorithms. One question at a time.
+
+A collection of computational explorations across
+**cognitive science, data science, and computer science**.
+
+Each mini-project includes reproducible Python, a data
+visualization, a research question, tests, and limitations.
+
+> **Research integrity:** These are automated computational
+> demonstrations, not peer-reviewed discoveries or
+> experiments involving real human participants.
+
+## Explore the lab
+
+**1 projects** across three disciplines.
+
+### 🧠 Cognitive Science
+
+Projects coming soon.
+
+### 📊 Data Science
+
+- [Does Correlation Mean Prediction?](projects/2026-11-01-correlation/README.md) — `2026-11-01`
+
+### 💻 Computer Science
+
+Projects coming soon.
+
+## How to reproduce a project
+
+```bash
+cd projects/YYYY-MM-DD-project-name
+python3 reproduce.py
+python3 -m unittest discover -s tests -v
+```
+
+## Design principles
+
+- Curiosity before hype
+- Runnable code before claims
+- Clear limitations before overconfidence
+- Beautiful, accessible visualizations
+- Transparent automation and data provenance
+
+## About
+
+Projects are generated using a curated set of 18
+computational project families. A new dated experiment
+uses its own deterministic parameters or simulations.
+The same research theme may return after a full rotation.
+
+Automation helps maintain a daily practice; substantive
+research contributions require human review and extension.

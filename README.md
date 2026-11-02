@@ -14,7 +14,7 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**1 projects** across three disciplines.
+**2 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
@@ -26,7 +26,7 @@ Projects coming soon.
 
 ### 💻 Computer Science
 
-Projects coming soon.
+- [How Far Does a Random Walker Travel?](projects/2026-11-02-random-walks/README.md) — `2026-11-02`
 
 ## How to reproduce a project
 
@@ -53,3 +53,13 @@ The same research theme may return after a full rotation.
 
 Automation helps maintain a daily practice; substantive
 research contributions require human review and extension.
+
+## Evidence-based research
+
+Projects using published World Bank statistics and
+related research records from NIH/NLM PubMed.
+
+These studies include traceable sources, actual
+observations, reproducible analysis, and limitations.
+
+- [Can We Understand Population Change?](evidence/2026-11-02-population-and-change/README.md) — 2026-11-02

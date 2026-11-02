@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1022"/><stop offset="1" stop-color="#142d42"/></linearGradient></defs>
+<rect width="1000" height="560" rx="22" fill="url(#bg)"/>
+<text x="50" y="45" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="bold">THE CURIOSITY LAB / COMPUTATIONAL STUDY</text>
+<text x="50" y="76" fill="#ffffff" font-family="Arial" font-size="25" font-weight="bold">How Far Does a Random Walker Travel?</text>
+<line x1="115" y1="465.0" x2="945" y2="465.0" stroke="#334155"/>
+<text x="100" y="470.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.70</text>
+<line x1="115" y1="391.0" x2="945" y2="391.0" stroke="#334155"/>
+<text x="100" y="396.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">4.78</text>
+<line x1="115" y1="317.0" x2="945" y2="317.0" stroke="#334155"/>
+<text x="100" y="322.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">8.86</text>
+<line x1="115" y1="243.0" x2="945" y2="243.0" stroke="#334155"/>
+<text x="100" y="248.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">12.94</text>
+<line x1="115" y1="169.0" x2="945" y2="169.0" stroke="#334155"/>
+<text x="100" y="174.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">17.02</text>
+<line x1="115" y1="95.0" x2="945" y2="95.0" stroke="#334155"/>
+<text x="100" y="100.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">21.10</text>
+<polyline points="115.0,429.2 149.6,386.6 184.2,363.8 218.8,341.4 253.3,330.4 287.9,321.5 322.5,303.5 357.1,279.2 391.7,260.4 426.2,254.1 460.8,253.8 495.4,250.3 530.0,213.3 564.6,195.8 599.2,202.7 633.8,179.4 668.3,190.4 702.9,165.8 737.5,176.5 772.1,169.8 806.7,143.5 841.2,140.2 875.8,133.5 910.4,130.8 945.0,143.2" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="115.0" cy="429.2" r="3.5" fill="#fbbf24"/>
+<circle cx="149.6" cy="386.6" r="3.5" fill="#fbbf24"/>
+<circle cx="184.2" cy="363.8" r="3.5" fill="#fbbf24"/>
+<circle cx="218.8" cy="341.4" r="3.5" fill="#fbbf24"/>
+<circle cx="253.3" cy="330.4" r="3.5" fill="#fbbf24"/>
+<circle cx="287.9" cy="321.5" r="3.5" fill="#fbbf24"/>
+<circle cx="322.5" cy="303.5" r="3.5" fill="#fbbf24"/>
+<circle cx="357.1" cy="279.2" r="3.5" fill="#fbbf24"/>
+<circle cx="391.7" cy="260.4" r="3.5" fill="#fbbf24"/>
+<circle cx="426.2" cy="254.1" r="3.5" fill="#fbbf24"/>
+<circle cx="460.8" cy="253.8" r="3.5" fill="#fbbf24"/>
+<circle cx="495.4" cy="250.3" r="3.5" fill="#fbbf24"/>
+<circle cx="530.0" cy="213.3" r="3.5" fill="#fbbf24"/>
+<circle cx="564.6" cy="195.8" r="3.5" fill="#fbbf24"/>
+<circle cx="599.2" cy="202.7" r="3.5" fill="#fbbf24"/>
+<circle cx="633.8" cy="179.4" r="3.5" fill="#fbbf24"/>
+<circle cx="668.3" cy="190.4" r="3.5" fill="#fbbf24"/>
+<circle cx="702.9" cy="165.8" r="3.5" fill="#fbbf24"/>
+<circle cx="737.5" cy="176.5" r="3.5" fill="#fbbf24"/>
+<circle cx="772.1" cy="169.8" r="3.5" fill="#fbbf24"/>
+<circle cx="806.7" cy="143.5" r="3.5" fill="#fbbf24"/>
+<circle cx="841.2" cy="140.2" r="3.5" fill="#fbbf24"/>
+<circle cx="875.8" cy="133.5" r="3.5" fill="#fbbf24"/>
+<circle cx="910.4" cy="130.8" r="3.5" fill="#fbbf24"/>
+<circle cx="945.0" cy="143.2" r="3.5" fill="#fbbf24"/>
+<text x="500.0" y="535" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Number of steps</text>
+<text transform="translate(30,280.0) rotate(-90)" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Mean distance from origin</text>
+<text x="115" y="492" fill="#cbd5e1" font-size="13">10</text>
+<text x="945" y="492" text-anchor="end" fill="#cbd5e1" font-size="13">490</text>
+</svg>

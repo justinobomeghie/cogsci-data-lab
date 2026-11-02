@@ -2,34 +2,35 @@ name: Daily Curiosity Lab
 
 on:
   schedule:
-    - cron: "17 18 * * *"
-      timezone: "America/Los_Angeles"
+    # 02:17 UTC daily. This is 6:17 PM PST / 7:17 PM PDT.
+    - cron: "17 2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: curiosity-lab
+  group: curiosity-lab-main
   cancel-in-progress: false
 
 jobs:
-  daily-project:
+  daily-research:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Download repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate project
+      - name: Generate computational project
         run: python3 scripts/curiosity-lab.py
 
-      - name: Test project
+      - name: Verify computational project
         run: |
           python3 - <<'PY'
           import datetime
@@ -37,39 +38,116 @@ jobs:
           import subprocess
           import sys
 
-          today = datetime.date.today().isoformat()
-          projects = list(pathlib.Path("projects").glob(today + "-*"))
+          today = datetime.datetime.now(
+              datetime.timezone.utc
+          ).date().isoformat()
 
-          if not projects:
-              raise SystemExit("Today's project was not generated.")
+          matches = list(
+              pathlib.Path("projects").glob(today + "-*")
+          )
 
-          for project in projects:
+          if not matches:
+              raise SystemExit("Today's computational project is missing")
+
+          for project in matches:
               subprocess.run(
                   [sys.executable, str(project / "reproduce.py")],
                   check=True
               )
               subprocess.run(
                   [
-                      sys.executable,
-                      "-m", "unittest", "discover",
-                      "-s", str(project / "tests"), "-v"
+                      sys.executable, "-m", "unittest",
+                      "discover", "-s", str(project / "tests"), "-v"
                   ],
                   check=True
               )
           PY
 
-      - name: Commit and push
+      - name: Generate source-backed research project
+        run: python3 scripts/evidence-research.py
+
+      - name: Verify evidence analysis
+        run: |
+          python3 - <<'PY'
+          import datetime
+          import pathlib
+          import subprocess
+          import sys
+
+          today = datetime.datetime.now(
+              datetime.timezone.utc
+          ).date().isoformat()
+
+          matches = list(
+              pathlib.Path("evidence").glob(today + "-*")
+          )
+
+          if not matches:
+              raise SystemExit("Today's evidence project is missing")
+
+          for project in matches:
+              subprocess.run(
+                  [sys.executable, str(project / "analyze.py")],
+                  check=True
+              )
+          PY
+
+      - name: Update portfolio homepage
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          homepage = Path("README.md")
+          text = homepage.read_text(encoding="utf-8")
+          marker = "## Evidence-based research"
+
+          if marker in text:
+              text = text.split(marker)[0].rstrip() + "\n"
+
+          folders = sorted(
+              Path("evidence").glob("20??-??-??-*"),
+              reverse=True
+          )
+
+          lines = [
+              "",
+              marker,
+              "",
+              "Projects using published World Bank statistics and",
+              "related research records from NIH/NLM PubMed.",
+              "",
+              "These studies include traceable sources, actual",
+              "observations, reproducible analysis, and limitations.",
+              "",
+          ]
+
+          for folder in folders[:40]:
+              report = folder / "README.md"
+              if report.exists():
+                  title = report.read_text().splitlines()[0][2:]
+                  lines.append(
+                      f"- [{title}]({folder}/README.md)"
+                      f" — {folder.name[:10]}"
+                  )
+
+          homepage.write_text(
+              text + "\n".join(lines) + "\n",
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Commit verified research
         run: |
           git config user.name "justinobomeghie"
           git config user.email "justin_obomeghie@berkeley.edu"
 
-          git add README.md projects/
+          git add README.md projects/ evidence/
 
           if git diff --cached --quiet; then
-            echo "No new project to commit."
+            echo "No new research to publish."
             exit 0
           fi
 
-          git commit -m "Curiosity Lab: daily research $(date -u +%F)"
+          git commit -m "Curiosity Lab: computational and evidence research $(date -u +%F)"
           git pull --rebase origin main
           git push origin HEAD:main

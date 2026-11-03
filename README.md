@@ -14,11 +14,11 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**2 projects** across three disciplines.
+**3 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
-Projects coming soon.
+- [Can We Predict What You Will Forget?](projects/2026-11-03-memory-decay/README.md) — `2026-11-03`
 
 ### 📊 Data Science
 
@@ -62,4 +62,5 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [How Has Access to Higher Education Changed?](evidence/2026-11-03-education-and-opportunity/README.md) — 2026-11-03
 - [Can We Understand Population Change?](evidence/2026-11-02-population-and-change/README.md) — 2026-11-02

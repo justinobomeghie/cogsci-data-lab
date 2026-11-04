@@ -14,7 +14,7 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**3 projects** across three disciplines.
+**4 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
@@ -22,6 +22,7 @@ visualization, a research question, tests, and limitations.
 
 ### 📊 Data Science
 
+- [Can Algorithms Discover Hidden Groups?](projects/2026-11-04-clustering/README.md) — `2026-11-04`
 - [Does Correlation Mean Prediction?](projects/2026-11-01-correlation/README.md) — `2026-11-01`
 
 ### 💻 Computer Science
@@ -62,5 +63,6 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [What Can Population Longevity Tell Us?](evidence/2026-11-04-health-and-longevity/README.md) — 2026-11-04
 - [How Has Access to Higher Education Changed?](evidence/2026-11-03-education-and-opportunity/README.md) — 2026-11-03
 - [Can We Understand Population Change?](evidence/2026-11-02-population-and-change/README.md) — 2026-11-02

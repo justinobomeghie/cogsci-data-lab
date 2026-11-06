@@ -14,10 +14,11 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**5 projects** across three disciplines.
+**6 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
+- [Why Do We Sometimes Choose the Worse Option?](projects/2026-11-06-decision-noise/README.md) — `2026-11-06`
 - [Can We Predict What You Will Forget?](projects/2026-11-03-memory-decay/README.md) — `2026-11-03`
 
 ### 📊 Data Science
@@ -64,6 +65,7 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [How Much Do Countries Invest in Research?](evidence/2026-11-06-research-and-development/README.md) — 2026-11-06
 - [How Quickly Did the World Get Connected?](evidence/2026-11-05-internet-and-society/README.md) — 2026-11-05
 - [What Can Population Longevity Tell Us?](evidence/2026-11-04-health-and-longevity/README.md) — 2026-11-04
 - [How Has Access to Higher Education Changed?](evidence/2026-11-03-education-and-opportunity/README.md) — 2026-11-03

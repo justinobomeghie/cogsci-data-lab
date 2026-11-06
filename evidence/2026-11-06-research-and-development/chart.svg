@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520">
+<rect width="100%" height="100%" rx="18" fill="#0b1220"/>
+<text x="45" y="40" fill="#67e8f9" font-size="16" font-family="Arial">THE CURIOSITY LAB / REAL-WORLD DATA</text>
+<text x="45" y="76" fill="white" font-size="25" font-family="Arial">How Much Do Countries Invest in Research?</text>
+<line x1="95" y1="435.0" x2="915" y2="435.0" stroke="#334155"/>
+<text x="83" y="439.0" text-anchor="end" fill="#cbd5e1" font-size="13">1.3</text>
+<line x1="95" y1="367.0" x2="915" y2="367.0" stroke="#334155"/>
+<text x="83" y="371.0" text-anchor="end" fill="#cbd5e1" font-size="13">1.8</text>
+<line x1="95" y1="299.0" x2="915" y2="299.0" stroke="#334155"/>
+<text x="83" y="303.0" text-anchor="end" fill="#cbd5e1" font-size="13">2.3</text>
+<line x1="95" y1="231.0" x2="915" y2="231.0" stroke="#334155"/>
+<text x="83" y="235.0" text-anchor="end" fill="#cbd5e1" font-size="13">2.8</text>
+<line x1="95" y1="163.0" x2="915" y2="163.0" stroke="#334155"/>
+<text x="83" y="167.0" text-anchor="end" fill="#cbd5e1" font-size="13">3.2</text>
+<line x1="95" y1="95.0" x2="915" y2="95.0" stroke="#334155"/>
+<text x="83" y="99.0" text-anchor="end" fill="#cbd5e1" font-size="13">3.7</text>
+<polyline points="95.0,249.5 129.2,247.1 163.3,259.6 197.5,259.3 231.7,268.1 265.8,266.0 300.0,259.9 334.2,250.1 368.3,232.0 402.5,225.4 436.7,236.2 470.8,232.9 505.0,242.1 539.2,238.8 573.3,237.0 607.5,228.0 641.7,219.1 675.8,212.6 710.0,197.7 744.2,176.2 778.3,137.6 812.5,130.5 846.7,127.9 880.8,133.5" fill="none" stroke="#38bdf8" stroke-width="3.5"/>
+<text x="95" y="472" fill="#38bdf8" font-family="Arial" font-size="16">USA</text>
+<polyline points="95.0,356.2 129.2,333.4 163.3,340.3 197.5,340.9 231.7,336.7 265.8,340.4 300.0,344.3 334.2,349.9 368.3,356.6 402.5,347.9 436.7,360.9 470.8,366.2 505.0,368.2 539.2,377.5 573.3,376.3 607.5,379.3 641.7,374.3 675.8,380.2 710.0,373.2 744.2,370.6 778.3,345.6 812.5,354.5 846.7,362.6 880.8,362.9 915.0,365.7" fill="none" stroke="#fbbf24" stroke-width="3.5"/>
+<text x="265" y="472" fill="#fbbf24" font-family="Arial" font-size="16">CAN</text>
+<polyline points="95.0,391.1 129.2,393.1 163.3,390.5 197.5,395.0 231.7,402.1 265.8,399.4 300.0,395.7 334.2,389.8 368.3,391.1 402.5,382.6 436.7,387.0 470.8,385.9 505.0,395.8 539.2,389.5 573.3,299.2 607.5,297.7 641.7,291.4 675.8,290.7 710.0,237.0 744.2,242.4 778.3,204.6 812.5,210.3 846.7,230.9 880.8,241.6" fill="none" stroke="#a78bfa" stroke-width="3.5"/>
+<text x="435" y="472" fill="#a78bfa" font-family="Arial" font-size="16">GBR</text>
+<text x="480.0" y="503" text-anchor="middle" fill="#cbd5e1" font-size="14">Year · Research and development expenditure (% of GDP)</text>
+</svg>

@@ -14,7 +14,7 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**7 projects** across three disciplines.
+**8 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
@@ -29,6 +29,7 @@ visualization, a research question, tests, and limitations.
 
 ### 💻 Computer Science
 
+- [Which Sorting Algorithm Wins?](projects/2026-11-08-sorting-race/README.md) — `2026-11-08`
 - [How Fast Can an Algorithm Find a Path?](projects/2026-11-05-search-algorithms/README.md) — `2026-11-05`
 - [How Far Does a Random Walker Travel?](projects/2026-11-02-random-walks/README.md) — `2026-11-02`
 
@@ -66,6 +67,7 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [Can We Understand Population Change?](evidence/2026-11-08-population-and-change/README.md) — 2026-11-08
 - [How Has Education Investment Changed?](evidence/2026-11-07-education-investment/README.md) — 2026-11-07
 - [How Much Do Countries Invest in Research?](evidence/2026-11-06-research-and-development/README.md) — 2026-11-06
 - [How Quickly Did the World Get Connected?](evidence/2026-11-05-internet-and-society/README.md) — 2026-11-05

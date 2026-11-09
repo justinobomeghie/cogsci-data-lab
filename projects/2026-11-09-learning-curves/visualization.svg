@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1022"/><stop offset="1" stop-color="#142d42"/></linearGradient></defs>
+<rect width="1000" height="560" rx="22" fill="url(#bg)"/>
+<text x="50" y="45" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="bold">THE CURIOSITY LAB / COMPUTATIONAL STUDY</text>
+<text x="50" y="76" fill="#ffffff" font-family="Arial" font-size="25" font-weight="bold">Why Does Practice Help Less Over Time?</text>
+<line x1="115" y1="465.0" x2="945" y2="465.0" stroke="#334155"/>
+<text x="100" y="470.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.30</text>
+<line x1="115" y1="391.0" x2="945" y2="391.0" stroke="#334155"/>
+<text x="100" y="396.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.44</text>
+<line x1="115" y1="317.0" x2="945" y2="317.0" stroke="#334155"/>
+<text x="100" y="322.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.59</text>
+<line x1="115" y1="243.0" x2="945" y2="243.0" stroke="#334155"/>
+<text x="100" y="248.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.73</text>
+<line x1="115" y1="169.0" x2="945" y2="169.0" stroke="#334155"/>
+<text x="100" y="174.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">0.87</text>
+<line x1="115" y1="95.0" x2="945" y2="95.0" stroke="#334155"/>
+<text x="100" y="100.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">1.01</text>
+<polyline points="115.0,429.2 136.3,396.5 157.6,367.3 178.8,341.3 200.1,318.1 221.4,297.4 242.7,279.0 264.0,262.5 285.3,247.9 306.5,234.8 327.8,223.2 349.1,212.8 370.4,203.5 391.7,195.3 412.9,187.9 434.2,181.3 455.5,175.5 476.8,170.3 498.1,165.6 519.4,161.5 540.6,157.8 561.9,154.5 583.2,151.5 604.5,148.9 625.8,146.6 647.1,144.5 668.3,142.6 689.6,141.0 710.9,139.5 732.2,138.2 753.5,137.0 774.7,136.0 796.0,135.0 817.3,134.2 838.6,133.5 859.9,132.8 881.2,132.2 902.4,131.7 923.7,131.2 945.0,130.8" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="115.0" cy="429.2" r="3.5" fill="#fbbf24"/>
+<circle cx="136.3" cy="396.5" r="3.5" fill="#fbbf24"/>
+<circle cx="157.6" cy="367.3" r="3.5" fill="#fbbf24"/>
+<circle cx="178.8" cy="341.3" r="3.5" fill="#fbbf24"/>
+<circle cx="200.1" cy="318.1" r="3.5" fill="#fbbf24"/>
+<circle cx="221.4" cy="297.4" r="3.5" fill="#fbbf24"/>
+<circle cx="242.7" cy="279.0" r="3.5" fill="#fbbf24"/>
+<circle cx="264.0" cy="262.5" r="3.5" fill="#fbbf24"/>
+<circle cx="285.3" cy="247.9" r="3.5" fill="#fbbf24"/>
+<circle cx="306.5" cy="234.8" r="3.5" fill="#fbbf24"/>
+<circle cx="327.8" cy="223.2" r="3.5" fill="#fbbf24"/>
+<circle cx="349.1" cy="212.8" r="3.5" fill="#fbbf24"/>
+<circle cx="370.4" cy="203.5" r="3.5" fill="#fbbf24"/>
+<circle cx="391.7" cy="195.3" r="3.5" fill="#fbbf24"/>
+<circle cx="412.9" cy="187.9" r="3.5" fill="#fbbf24"/>
+<circle cx="434.2" cy="181.3" r="3.5" fill="#fbbf24"/>
+<circle cx="455.5" cy="175.5" r="3.5" fill="#fbbf24"/>
+<circle cx="476.8" cy="170.3" r="3.5" fill="#fbbf24"/>
+<circle cx="498.1" cy="165.6" r="3.5" fill="#fbbf24"/>
+<circle cx="519.4" cy="161.5" r="3.5" fill="#fbbf24"/>
+<circle cx="540.6" cy="157.8" r="3.5" fill="#fbbf24"/>
+<circle cx="561.9" cy="154.5" r="3.5" fill="#fbbf24"/>
+<circle cx="583.2" cy="151.5" r="3.5" fill="#fbbf24"/>
+<circle cx="604.5" cy="148.9" r="3.5" fill="#fbbf24"/>
+<circle cx="625.8" cy="146.6" r="3.5" fill="#fbbf24"/>
+<circle cx="647.1" cy="144.5" r="3.5" fill="#fbbf24"/>
+<circle cx="668.3" cy="142.6" r="3.5" fill="#fbbf24"/>
+<circle cx="689.6" cy="141.0" r="3.5" fill="#fbbf24"/>
+<circle cx="710.9" cy="139.5" r="3.5" fill="#fbbf24"/>
+<circle cx="732.2" cy="138.2" r="3.5" fill="#fbbf24"/>
+<circle cx="753.5" cy="137.0" r="3.5" fill="#fbbf24"/>
+<circle cx="774.7" cy="136.0" r="3.5" fill="#fbbf24"/>
+<circle cx="796.0" cy="135.0" r="3.5" fill="#fbbf24"/>
+<circle cx="817.3" cy="134.2" r="3.5" fill="#fbbf24"/>
+<circle cx="838.6" cy="133.5" r="3.5" fill="#fbbf24"/>
+<circle cx="859.9" cy="132.8" r="3.5" fill="#fbbf24"/>
+<circle cx="881.2" cy="132.2" r="3.5" fill="#fbbf24"/>
+<circle cx="902.4" cy="131.7" r="3.5" fill="#fbbf24"/>
+<circle cx="923.7" cy="131.2" r="3.5" fill="#fbbf24"/>
+<circle cx="945.0" cy="130.8" r="3.5" fill="#fbbf24"/>
+<text x="500.0" y="535" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Practice session</text>
+<text transform="translate(30,280.0) rotate(-90)" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Predicted performance</text>
+<text x="115" y="492" fill="#cbd5e1" font-size="13">1</text>
+<text x="945" y="492" text-anchor="end" fill="#cbd5e1" font-size="13">40</text>
+</svg>

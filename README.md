@@ -14,7 +14,7 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**9 projects** across three disciplines.
+**10 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
@@ -30,6 +30,7 @@ visualization, a research question, tests, and limitations.
 
 ### 💻 Computer Science
 
+- [Why Do Hash Tables Sometimes Slow Down?](projects/2026-11-11-hash-collisions/README.md) — `2026-11-11`
 - [Which Sorting Algorithm Wins?](projects/2026-11-08-sorting-race/README.md) — `2026-11-08`
 - [How Fast Can an Algorithm Find a Path?](projects/2026-11-05-search-algorithms/README.md) — `2026-11-05`
 - [How Far Does a Random Walker Travel?](projects/2026-11-02-random-walks/README.md) — `2026-11-02`
@@ -68,6 +69,7 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [How Quickly Did the World Get Connected?](evidence/2026-11-11-internet-and-society/README.md) — 2026-11-11
 - [How Has Access to Higher Education Changed?](evidence/2026-11-09-education-and-opportunity/README.md) — 2026-11-09
 - [Can We Understand Population Change?](evidence/2026-11-08-population-and-change/README.md) — 2026-11-08
 - [How Has Education Investment Changed?](evidence/2026-11-07-education-investment/README.md) — 2026-11-07

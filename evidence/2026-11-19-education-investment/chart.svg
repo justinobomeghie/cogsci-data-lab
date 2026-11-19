@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520">
+<rect width="100%" height="100%" rx="18" fill="#0b1220"/>
+<text x="45" y="40" fill="#67e8f9" font-size="16" font-family="Arial">THE CURIOSITY LAB / REAL-WORLD DATA</text>
+<text x="45" y="76" fill="white" font-size="25" font-family="Arial">How Has Education Investment Changed?</text>
+<line x1="95" y1="435.0" x2="915" y2="435.0" stroke="#334155"/>
+<text x="83" y="439.0" text-anchor="end" fill="#cbd5e1" font-size="13">3.8</text>
+<line x1="95" y1="367.0" x2="915" y2="367.0" stroke="#334155"/>
+<text x="83" y="371.0" text-anchor="end" fill="#cbd5e1" font-size="13">4.3</text>
+<line x1="95" y1="299.0" x2="915" y2="299.0" stroke="#334155"/>
+<text x="83" y="303.0" text-anchor="end" fill="#cbd5e1" font-size="13">4.7</text>
+<line x1="95" y1="231.0" x2="915" y2="231.0" stroke="#334155"/>
+<text x="83" y="235.0" text-anchor="end" fill="#cbd5e1" font-size="13">5.2</text>
+<line x1="95" y1="163.0" x2="915" y2="163.0" stroke="#334155"/>
+<text x="83" y="167.0" text-anchor="end" fill="#cbd5e1" font-size="13">5.7</text>
+<line x1="95" y1="95.0" x2="915" y2="95.0" stroke="#334155"/>
+<text x="83" y="99.0" text-anchor="end" fill="#cbd5e1" font-size="13">6.1</text>
+<polyline points="654.1,269.6 691.4,291.0 728.6,246.1 765.9,274.8 803.2,265.7 840.5,202.2 877.7,198.5" fill="none" stroke="#38bdf8" stroke-width="3.5"/>
+<text x="95" y="472" fill="#38bdf8" font-family="Arial" font-size="16">USA</text>
+<polyline points="95.0,198.1 132.3,266.4 169.5,260.6 281.4,293.5 355.9,293.5 393.2,313.8 430.5,282.7 467.7,207.8 505.0,221.5 579.5,319.2 616.8,282.3 654.1,297.4 691.4,286.2 728.6,265.4 765.9,275.7 803.2,292.5 840.5,275.8 877.7,296.1 915.0,282.2" fill="none" stroke="#fbbf24" stroke-width="3.5"/>
+<text x="265" y="472" fill="#fbbf24" font-family="Arial" font-size="16">CAN</text>
+<polyline points="95.0,402.1 132.3,390.2 169.5,315.9 206.8,288.4 244.1,297.9 281.4,269.8 318.6,263.0 355.9,270.5 393.2,272.7 430.5,250.5 467.7,158.1 505.0,176.5 579.5,183.3 616.8,172.3 654.1,179.0 691.4,197.4 728.6,193.9 765.9,229.9 803.2,221.6 840.5,195.8 877.7,127.9" fill="none" stroke="#a78bfa" stroke-width="3.5"/>
+<text x="435" y="472" fill="#a78bfa" font-family="Arial" font-size="16">GBR</text>
+<text x="480.0" y="503" text-anchor="middle" fill="#cbd5e1" font-size="14">Year · Government expenditure on education (% of GDP)</text>
+</svg>

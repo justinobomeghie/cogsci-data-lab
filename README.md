@@ -14,10 +14,11 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**11 projects** across three disciplines.
+**12 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
+- [Can We Predict What You Will Forget?](projects/2026-11-21-memory-decay/README.md) — `2026-11-21`
 - [Why Does Practice Help Less Over Time?](projects/2026-11-09-learning-curves/README.md) — `2026-11-09`
 - [Why Do We Sometimes Choose the Worse Option?](projects/2026-11-06-decision-noise/README.md) — `2026-11-06`
 - [Can We Predict What You Will Forget?](projects/2026-11-03-memory-decay/README.md) — `2026-11-03`
@@ -70,6 +71,7 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [How Has Access to Higher Education Changed?](evidence/2026-11-21-education-and-opportunity/README.md) — 2026-11-21
 - [How Has Education Investment Changed?](evidence/2026-11-19-education-investment/README.md) — 2026-11-19
 - [How Quickly Did the World Get Connected?](evidence/2026-11-11-internet-and-society/README.md) — 2026-11-11
 - [How Has Access to Higher Education Changed?](evidence/2026-11-09-education-and-opportunity/README.md) — 2026-11-09

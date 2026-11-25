@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1022"/><stop offset="1" stop-color="#142d42"/></linearGradient></defs>
+<rect width="1000" height="560" rx="22" fill="url(#bg)"/>
+<text x="50" y="45" fill="#67e8f9" font-family="Arial" font-size="15" font-weight="bold">THE CURIOSITY LAB / COMPUTATIONAL STUDY</text>
+<text x="50" y="76" fill="#ffffff" font-family="Arial" font-size="25" font-weight="bold">When Is a Data Point Actually Strange?</text>
+<line x1="115" y1="465.0" x2="945" y2="465.0" stroke="#334155"/>
+<text x="100" y="470.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">-2.16</text>
+<line x1="115" y1="391.0" x2="945" y2="391.0" stroke="#334155"/>
+<text x="100" y="396.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">8.50</text>
+<line x1="115" y1="317.0" x2="945" y2="317.0" stroke="#334155"/>
+<text x="100" y="322.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">19.17</text>
+<line x1="115" y1="243.0" x2="945" y2="243.0" stroke="#334155"/>
+<text x="100" y="248.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">29.83</text>
+<line x1="115" y1="169.0" x2="945" y2="169.0" stroke="#334155"/>
+<text x="100" y="174.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">40.50</text>
+<line x1="115" y1="95.0" x2="945" y2="95.0" stroke="#334155"/>
+<text x="100" y="100.0" text-anchor="end" fill="#cbd5e1" font-size="14" font-family="Arial">51.16</text>
+<polyline points="115.0,130.8 142.7,228.0 170.3,290.4 198.0,304.3 225.7,332.0 253.3,359.8 281.0,359.8 308.7,359.8 336.3,359.8 364.0,359.8 391.7,359.8 419.3,366.7 447.0,366.7 474.7,366.7 502.3,366.7 530.0,366.7 557.7,366.7 585.3,373.7 613.0,373.7 640.7,373.7 668.3,373.7 696.0,373.7 723.7,387.6 751.3,387.6 779.0,394.5 806.7,401.4 834.3,401.4 862.0,415.3 889.7,422.3 917.3,422.3 945.0,429.2" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="115.0" cy="130.8" r="3.5" fill="#fbbf24"/>
+<circle cx="142.7" cy="228.0" r="3.5" fill="#fbbf24"/>
+<circle cx="170.3" cy="290.4" r="3.5" fill="#fbbf24"/>
+<circle cx="198.0" cy="304.3" r="3.5" fill="#fbbf24"/>
+<circle cx="225.7" cy="332.0" r="3.5" fill="#fbbf24"/>
+<circle cx="253.3" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="281.0" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="308.7" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="336.3" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="364.0" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="391.7" cy="359.8" r="3.5" fill="#fbbf24"/>
+<circle cx="419.3" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="447.0" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="474.7" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="502.3" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="530.0" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="557.7" cy="366.7" r="3.5" fill="#fbbf24"/>
+<circle cx="585.3" cy="373.7" r="3.5" fill="#fbbf24"/>
+<circle cx="613.0" cy="373.7" r="3.5" fill="#fbbf24"/>
+<circle cx="640.7" cy="373.7" r="3.5" fill="#fbbf24"/>
+<circle cx="668.3" cy="373.7" r="3.5" fill="#fbbf24"/>
+<circle cx="696.0" cy="373.7" r="3.5" fill="#fbbf24"/>
+<circle cx="723.7" cy="387.6" r="3.5" fill="#fbbf24"/>
+<circle cx="751.3" cy="387.6" r="3.5" fill="#fbbf24"/>
+<circle cx="779.0" cy="394.5" r="3.5" fill="#fbbf24"/>
+<circle cx="806.7" cy="401.4" r="3.5" fill="#fbbf24"/>
+<circle cx="834.3" cy="401.4" r="3.5" fill="#fbbf24"/>
+<circle cx="862.0" cy="415.3" r="3.5" fill="#fbbf24"/>
+<circle cx="889.7" cy="422.3" r="3.5" fill="#fbbf24"/>
+<circle cx="917.3" cy="422.3" r="3.5" fill="#fbbf24"/>
+<circle cx="945.0" cy="429.2" r="3.5" fill="#fbbf24"/>
+<text x="500.0" y="535" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Z-score threshold</text>
+<text transform="translate(30,280.0) rotate(-90)" text-anchor="middle" fill="#f8fafc" font-size="18" font-family="Arial">Flagged observations</text>
+<text x="115" y="492" fill="#cbd5e1" font-size="13">1</text>
+<text x="945" y="492" text-anchor="end" fill="#cbd5e1" font-size="13">4</text>
+</svg>

@@ -14,10 +14,11 @@ visualization, a research question, tests, and limitations.
 
 ## Explore the lab
 
-**17 projects** across three disciplines.
+**18 projects** across three disciplines.
 
 ### 🧠 Cognitive Science
 
+- [Why Does Practice Help Less Over Time?](projects/2026-11-27-learning-curves/README.md) — `2026-11-27`
 - [Why Do We Sometimes Choose the Worse Option?](projects/2026-11-24-decision-noise/README.md) — `2026-11-24`
 - [Can We Predict What You Will Forget?](projects/2026-11-21-memory-decay/README.md) — `2026-11-21`
 - [Why Does Practice Help Less Over Time?](projects/2026-11-09-learning-curves/README.md) — `2026-11-09`
@@ -76,6 +77,7 @@ related research records from NIH/NLM PubMed.
 These studies include traceable sources, actual
 observations, reproducible analysis, and limitations.
 
+- [How Has Access to Higher Education Changed?](evidence/2026-11-27-education-and-opportunity/README.md) — 2026-11-27
 - [Can We Understand Population Change?](evidence/2026-11-26-population-and-change/README.md) — 2026-11-26
 - [How Has Education Investment Changed?](evidence/2026-11-25-education-investment/README.md) — 2026-11-25
 - [How Much Do Countries Invest in Research?](evidence/2026-11-24-research-and-development/README.md) — 2026-11-24
